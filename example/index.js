@@ -1,8 +1,10 @@
 /**
- * Sample React Native App
+ * Sample React Native App ,, example of react-native-modal-dropdown library
  * https://github.com/facebook/react-native
  * @flow
  */
+
+//copy and paste below code in seprate file to know what is going on easily
 
 import React, {Component} from 'react';
 import {
