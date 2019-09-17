@@ -13,7 +13,6 @@ import {
   Dimensions,
   View,
   Text,
-  ListView,
   TouchableWithoutFeedback,
   TouchableNativeFeedback,
   TouchableOpacity,
@@ -23,6 +22,7 @@ import {
 } from 'react-native';
 
 import PropTypes from 'prop-types';
+import ListView from 'deprecated-react-native-listview';
 
 const TOUCHABLE_ELEMENTS = [
   'TouchableHighlight',
